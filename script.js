@@ -247,7 +247,7 @@ $(function () {
             });
         });
 
-    var publishable_key = "A56kviwV4IxClAdxcSsX";
+    var publishable_key = "rf_A56kviwV4IxClAdxcSsX";
     var toLoad = {
         model: "manggasegar_manggatidaksegar",
         version: 1
